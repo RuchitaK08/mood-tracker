@@ -1,0 +1,72 @@
+/* MoodTracker.css */
+.mood-tracker-container {
+  background-color: #3e2c4a;
+  min-height: 100vh;
+  padding: 2rem;
+  font-family: 'Press Start 2P', cursive;
+  color: white;
+  text-align: center;
+}
+
+.back-button {
+  background-color: white;
+  color: black;
+  font-family: 'Press Start 2P', cursive;
+  border: none;
+  padding: 0.5rem 1rem;
+  border-radius: 10px;
+  cursor: pointer;
+  margin-bottom: 1rem;
+}
+
+.mood-options button {
+  display: block;
+  width: 80%;
+  margin: 1rem auto;
+  background-color: #e7c6ff;
+  color: black;
+  border: none;
+  border-radius: 12px;
+  font-family: 'Press Start 2P', cursive;
+  padding: 1rem;
+  font-size: 0.8rem;
+  box-shadow: 2px 2px 0 #000;
+  transition: 0.2s;
+  cursor: pointer;
+}
+
+.mood-options button:hover {
+  background-color: #ffb3e6;
+}
+
+/* Quote card layout */
+.quote-card {
+  background-color: #3e2c4a;
+  min-height: 100vh;
+  padding: 2rem;
+  color: white;
+  text-align: center;
+  font-family: 'Press Start 2P', cursive;
+}
+
+.card-content {
+  background-color: #f0e6f6;
+  border-radius: 20px;
+  padding: 2rem;
+  margin: 2rem auto;
+  width: 80%;
+  box-shadow: 4px 4px 0 #000;
+}
+
+.card-content img {
+  width: 80px;
+  margin-bottom: 1rem;
+}
+
+.card-content p {
+  color: black;
+  font-size: 0.75rem;
+  line-height: 1.5;
+}
+
+

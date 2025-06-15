@@ -1,0 +1,58 @@
+.mood-select-container {
+  background-color: #fff0f5;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 2rem;
+  font-family: 'Press Start 2P', cursive;
+  text-align: center;
+}
+
+.mood-select-container h1 {
+  color: #ff69b4;
+  font-size: 20px;
+  margin-bottom: 2rem;
+  text-shadow: 1px 1px #ffc0cb;
+}
+
+.mood-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+  justify-content: center;
+}
+
+.mood-button {
+  background-color: #ffe4ec;
+  border: 3px solid #ff99cc;
+  border-radius: 20px;
+  padding: 20px;
+  width: 120px;
+  height: 120px;
+  font-size: 16px;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 3px 3px #ffb6c1;
+  transition: all 0.2s ease;
+}
+
+.mood-button:hover {
+  transform: scale(1.05);
+  background-color: #ffcce0;
+}
+
+.emoji {
+  font-size: 30px;
+  margin-bottom: 0.5rem;
+}
+
+.label {
+  font-size: 12px;
+}
+
+
+
