@@ -45,11 +45,7 @@ PixelPals makes checking in with yourself **easy, fun, and gentle** — through 
 
 ---
 
-## 📸 Screenshots
 
-![Home](./screenshots/homepage.png)  
-![Mood Card](./screenshots/moodquote.png)  
-*(Add your own screenshots inside a `screenshots/` folder)*
 
 ---
 
